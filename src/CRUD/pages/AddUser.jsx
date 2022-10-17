@@ -38,6 +38,7 @@ const AddUser = () => {
               <TextField
                 {...field}
                 required
+                type='text'
                 label="name"
                 variant="outlined"
                 {...register("name")}
@@ -52,6 +53,7 @@ const AddUser = () => {
               <TextField
                 {...field}
                 required
+                type='email'
                 label="email"
                 variant="outlined"
                 {...register("email")}
@@ -66,6 +68,7 @@ const AddUser = () => {
               <TextField
                 {...field}
                 required
+                type='number'
                 label="number"
                 variant="outlined"
                 {...register("num")}
@@ -80,6 +83,7 @@ const AddUser = () => {
               <TextField
                 {...field}
                 required
+                type='password'
                 label="password"
                 variant="outlined"
                 {...register("pass")}

@@ -1,3 +1,32 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "name": "Daniel Creig",
+      "email": "Daniel@gmail.com",
+      "num": "7987335059",
+      "pass": "daniel@1234"
+    },
+    {
+      "id": 2,
+      "name": "Rudra Tiwari",
+      "email": "legaleaglelms@gmail.com",
+      "num": "7067272092",
+      "pass": "Abcd@1234"
+    },
+    {
+      "id": 3,
+      "name": "Tom Cruise",
+      "email": "cruise@gmail.com",
+      "num": "7987335059",
+      "pass": "cruise@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "john carter",
+      "email": "carter@gmail.com",
+      "num": "7894561059",
+      "pass": "ruise@gmail.com\t"
+    }
+  ]
 }
