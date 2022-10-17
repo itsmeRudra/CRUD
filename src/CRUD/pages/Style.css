@@ -1,0 +1,27 @@
+.Bg {
+  margin-top: 15px;
+  background-color: rgb(163, 159, 159);
+}
+
+.ed {
+  border: solid 2px black;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+  color: rgb(60, 57, 57);
+}
+.ad {
+  border: solid 2px black;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: rgb(60, 57, 57);
+  color: white;
+}
